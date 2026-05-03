@@ -1,0 +1,60 @@
+Level2 tasks
+
+Task 1: Ratings Analysis
+
+Objective:
+To analyze the distribution of restaurant ratings.
+
+Steps Performed:
+- Used histogram (seaborn) to visualize ratings
+
+Output:
+Graph showing distribution of ratings.
+
+Conclusion:
+Most restaurants fall within a specific rating range.
+
+
+Task 2: Cuisine Combination Analysis
+
+Objective:
+To identify common cuisine combinations.
+
+Steps Performed:
+- Used value_counts() on cuisines column
+
+Output:
+Top cuisine combinations identified.
+
+Conclusion:
+Some cuisine combinations are more popular.
+
+
+Task 3: Geographic Analysis
+
+Objective:
+To visualize restaurant locations.
+
+Steps Performed:
+- Plotted latitude and longitude using scatter plot
+
+Output:
+Map showing restaurant locations.
+
+Conclusion:
+Restaurants are concentrated in certain areas.
+
+
+Task 4: Restaurant Chains Analysis
+
+Objective:
+To identify restaurants with multiple branches.
+
+Steps Performed:
+- Used value_counts() on address
+
+Output:
+List of repeated restaurant entries.
+
+Conclusion:
+Some restaurant chains have multiple outlets.

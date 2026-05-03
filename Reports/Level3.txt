@@ -1,0 +1,48 @@
+Level3 tasks
+
+Task 1: Reviews Analysis
+
+Objective:
+To analyze relationship between review length and ratings.
+
+Steps Performed:
+- Created review length column
+- Calculated correlation
+
+Output:
+Average review length and correlation values.
+
+Conclusion:
+Review length has some impact on ratings.
+
+
+Task 2: Votes Analysis
+
+Objective:
+To identify most voted restaurants and analyze correlation with ratings.
+
+Steps Performed:
+- Selected top voted restaurants
+- Calculated correlation
+
+Output:
+Top restaurants by votes and correlation values.
+
+Conclusion:
+Higher votes indicate popularity and may relate to ratings.
+
+
+Task 3: Price vs Services Analysis
+
+Objective:
+To analyze relationship between price range and services.
+
+Steps Performed:
+- Grouped data by price range
+- Calculated service availability percentages
+
+Output:
+Service availability across price ranges.
+
+Conclusion:
+Higher price range restaurants provide more services.

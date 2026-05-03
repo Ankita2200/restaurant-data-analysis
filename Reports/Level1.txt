@@ -1,0 +1,64 @@
+Level1 tasks
+
+Task 1: Top Cuisines Analysis
+
+Objective:
+To identify the most common cuisines available in the dataset.
+
+Steps Performed:
+- Loaded dataset using pandas
+- Split multiple cuisines using string split
+- Counted frequency using value_counts()
+
+Output:
+Top cuisines such as Japanese, Asian, and European were found.
+
+Conclusion:
+The dataset shows that certain cuisines are more popular and frequently offered.
+
+
+Task 2: City Analysis
+
+Objective:
+To find which city has the most restaurants and highest ratings.
+
+Steps Performed:
+- Used value_counts() to find city with most restaurants
+- Used groupby() to calculate average ratings
+
+Output:
+One city had the highest number of restaurants and another had the highest rating.
+
+Conclusion:
+Restaurant distribution and ratings vary across cities.
+
+
+Task 3:Price Distribution Analysis
+
+Objective:
+To analyze distribution of restaurants across price ranges.
+
+Steps Performed:
+- Used seaborn countplot to visualize price range
+
+Output:
+Graph showing number of restaurants in each price range.
+
+Conclusion:
+Most restaurants fall within a particular price category.
+
+
+Task 4: Online Delivery Analysis
+
+Objective:
+To analyze availability of online delivery and its effect on ratings.
+
+Steps Performed:
+- Calculated percentage of restaurants offering delivery
+- Compared ratings using groupby()
+
+Output:
+Online delivery percentages and rating comparison.
+
+Conclusion:
+Online delivery services impact restaurant popularity and ratings.
