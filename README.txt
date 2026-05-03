@@ -1,33 +1,30 @@
-Name: Ankita Jangam
-Role: Data Analysis Intern
+# Restaurant Data Analysis
 
-Project Title: Restaurant Data Analysis
+## Overview
+This project performs data analysis on a restaurant dataset using Python.
 
-Description:
-This project involves analysis of a restaurant dataset using Python. 
-It includes data cleaning, data visualization, and extracting useful insights.
-
-Tools & Technologies Used:
+## Tools Used
 - Python
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
-- VS Code
 
-Tasks Completed:
-- Level 1: Top cuisines, city analysis, price distribution, online delivery
-- Level 2: Ratings analysis, cuisine combinations, geographic analysis, chains
-- Level 3: Reviews analysis, votes analysis, services analysis
+## Project Structure
+- Level 1: Basic Data Analysis
+- Level 2: Intermediate Analysis
+- Level 3: Advanced Analysis
 
-Outputs:
-- price.png
-- rating.png
-- map.png
+## Tasks Performed
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Insights Generation
 
-Folder Structure:
-- level1, level2, level3 (Python task files)
-- outputs (graphs)
-- Reports (task explanations)
+## Outputs
+- Price Distribution Graph
+- Rating Distribution Graph
+- Geographic Analysis
 
-Conclusion:
-The project successfully analyzes restaurant data and provides meaningful insights regarding cuisines, pricing, ratings, and services.
+## Author
+Ankita Jangam
